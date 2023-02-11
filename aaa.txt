@@ -1,5 +1,9 @@
 sasadascdc
 
+<<<<<<< HEAD
 
 
 本地写入
+=======
+网页写入
+>>>>>>> dfe27f185e11d2d06c01edea02e1ae7aa5c9acae
